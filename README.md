@@ -1,5 +1,5 @@
 <iframe 
-  src="https://github.com/fasoagroup/Actuaries-/wiki"
+src="https://github.com/fasoagroup/Actuaries-/wiki"
   sandbox="allow-same-origin allow-scripts allow-popups allow-forms"
   width="100%"
   height="600"
