@@ -1,0 +1,4 @@
+# Example .gitignore
+secrets.env
+private-data.csv
+credentials.json
