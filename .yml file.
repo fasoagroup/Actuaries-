@@ -1,0 +1,2 @@
+- name: HTML/CSS/JS Minifier
+  uses: devatherock/minify-js@v3.1.0
